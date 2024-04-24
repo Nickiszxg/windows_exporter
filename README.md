@@ -1,3 +1,10 @@
+# About This Fork
+
+This fork is primarily used for personal experimentation and may contain modifications or additional features not present in the original repository. Please note that the content here may differ from the original repository.
+
+If you're looking for the official version or want to contribute to the main project, please visit the [https://github.com/prometheus-community/windows_exporter.git].
+
+
 # windows_exporter
 
 ![Build Status](https://github.com/prometheus-community/windows_exporter/workflows/windows_exporter%20CI/CD/badge.svg)
